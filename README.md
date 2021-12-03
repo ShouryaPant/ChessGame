@@ -1,0 +1,2 @@
+# ChessGame
+We made a GUI BASED Chess game using Python and Pygame. We used certain algorithms to make it completely functional. So when the user clicks the Executable file , a new GUI WINDOW will open asking the user with two options .Play the game or QUIT . When user clicks the PLAY GAME BUTTON Then the game will start and white has to start the game. The game follows and continues as per the CHESS RULES. At the end winner is declared by either CHECKMATE OR STALEMATE and a message will be Prompted on the screen to whoever wins the game-- "BLACK OR WHITE".
